@@ -6,11 +6,11 @@ Este proyecto es una prueba técnica que incluye una aplicación Full Stack desa
 ## 🧱 Estructura del Proyecto
 
 📦 proyecto/
-├── 📁 frontend/
-      ├── README-frontend.md ← Documentación del frontend
-├── 📁 backend/
-    └── README-backend.md ← Documentación del backend
-├── README.md ← Este archivo
+* ├── 📁 frontend/
+       *  ├── README-frontend.md ← Documentación del frontend
+* ├── 📁 backend/
+   *  └── README-backend.md ← Documentación del backend
+* ├── README.md ← Este archivo
 
 
 ## 🚀 ¿Cómo ejecutar el proyecto?
