@@ -18,7 +18,7 @@ Este proyecto es una prueba técnica que incluye una aplicación Full Stack desa
 1. Clonar el repositorio:
 
 ```bash
-git clone [https://github.com/usuario/repositorio.git](https://github.com/F3RCHEADOR/Prueba-Tecnica-Marval)
+git clone https://github.com/F3RCHEADOR/Prueba-Tecnica-Marval
 cd Prueba-Tecnica-Marval
 
 ```
