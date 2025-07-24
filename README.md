@@ -38,8 +38,8 @@ npm start
 
 👤 Roles de Usuario
 
-admin → Puede hacerlo todo
-user → no puede cambiar el estado de un proveedor, lo demas si puede
+- admin → Puede hacerlo todo
+- user → no puede cambiar el estado de un proveedor, lo demas si puede
 
 
 
