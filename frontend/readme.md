@@ -6,6 +6,12 @@
 - Node.js 18 o superior
 - npm o yarn
 
+Esta carpeta no nesecita env a menos que se quiera tener despliegue del backend en un servicio de nube.
+
+```env
+VITE_API_BASE_URL=Direccion_por_ejemplo_railway
+```
+
 🚀 Instalación
 Clona el repositorio:
 
