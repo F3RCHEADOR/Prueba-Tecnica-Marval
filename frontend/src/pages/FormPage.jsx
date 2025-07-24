@@ -50,7 +50,7 @@ function FormPage() {
       const result = await createProveedor(form);
       console.log("Proveedor creado:", result);
       alert("Proveedor creado exitosamente.");
-      navigate("/list");
+      navigate("/");
     } catch (error) {
       console.error("Error al crear proveedor:", error);
       alert("Error al enviar el formulario.");
