@@ -38,3 +38,17 @@ backend/
 ├── .env               # Variables de entorno 
 ├── package.json       # Configuración del proyecto y scripts
 
+# env
+
+⚙️ Variables de entorno
+Debes crear un archivo .env en la raíz del proyecto con el siguiente contenido:
+
+```env
+
+API_MARVAL=TU_URL_DEL_API
+USER_MARVAL=TU_USUARIO
+PASS_MARVAL=TU_PASSWORD
+MONGO_URI=TU_URI_DE_MONGODB
+```
+
+El archivo env no esta dentro del proyecto, se debera crear y llenar con la informacion en la documentacion dada.
